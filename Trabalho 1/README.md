@@ -1,4 +1,4 @@
-# 1º Trabalho Prático
+# 1º Trabalho Prático : Caminho de um Drone
   No âmbito da Unidade Curricular de Modelos Determinísticos de Investigação
 Operacional, desenvolvemos o 1º Trabalho Prático proposto para este ano Ano Letivo.
 Neste trabalho abordamos o problema do “Drone”, sendo este bastante semelhante ao
