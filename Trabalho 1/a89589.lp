@@ -1,5 +1,5 @@
 /* Objective function */
-// xij -> emparelhamento. = caso n„o seja escolhido. 1 Caso seja.
+// xij -> emparelhamento. = caso n√£o seja escolhido. 1 Caso seja.
 
 min: 3 x12 + 6.08 x13 + 8.06 x14 + 4.12 x15 + 3 x16 + 7.21 x18 + 7 x19 + 7.28 x1_10 + 8.60 x1_11 + 10.63 x1_12 + 5 x1_13 + 3.16 x23
    + 5.10 x24 + 1.41 x25 + 4.24 x26 + 6.08 x28 + 7.62 x29 + 7.07 x2_10 + 7.28 x2_11 + 8.60 x2_12 + 3.16 x2_13 + 2 x34 + 2.83 x35
@@ -9,7 +9,7 @@ min: 3 x12 + 6.08 x13 + 8.06 x14 + 4.12 x15 + 3 x16 + 7.21 x18 + 7 x19 + 7.28 x1
    + 2 x9_10 + 5 x9_11 + 8 x9_12 + 5.66 x9_13 + 3 x10_11 + 6 x10_12 + 4.47 x10_13 + 3 x11_12 + 4.12 x11_13 + 5.66 x12_13 ;
 
 /* Variable bounds */
-/*Garantir que as parelhas s„o v·lidas*/
+/*Garantir que as parelhas s√£o v√°lidas*/
 
 Vertice1: x12 + x13 + x14 + x15 + x16 + x18 + x19 + x1_10 + x1_11 + x1_12 + x1_13 = 1 ;
 Vertice2: x12 + x23 + x24 + x25 + x26 + x28 + x29 + x2_10 + x2_11 + x2_12 + x2_13 = 1 ;
