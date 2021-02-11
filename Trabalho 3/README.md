@@ -1,4 +1,4 @@
-#3º Trabalho Prático: Método do Caminho Crítico
+# 3º Trabalho Prático: Método do Caminho Crítico
 
 Este terceiro trabalho prático da disciplina de MDIO baseou-se na gestão de atividades de
 um projeto. Este projeto, definido pelo maior número de aluno do grupo, encontra-se dividido em
